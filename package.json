@@ -4,6 +4,8 @@
     "start": "node app/server/server.js"
   },
   "dependencies": {
+    "@types/node": "^22.15.2",
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
